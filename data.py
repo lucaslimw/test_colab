@@ -1,0 +1,1 @@
+caminho = pd.read_csv('lucaslima/caminho1/caminho2/data.csv')
